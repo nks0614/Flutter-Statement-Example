@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_statement_example/Presentation/ChangedImageCubitScreen.dart';
+import 'package:flutter_statement_example/Presentation/InfinityImageBlocScreen.dart';
 import 'package:flutter_statement_example/test_page.dart';
 
 import 'Observer.dart';
@@ -19,7 +20,7 @@ class App extends StatelessWidget {
     // TODO: implement build
     return const MaterialApp(
       home: Scaffold(
-        body: ChangedImageCubitScreen(),
+        body: InfinityImageBlocScreen(),
       ),
     );
   }
