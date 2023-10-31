@@ -1,16 +1,4 @@
 # flutter_statement_example
 
-Flutter Statement Example
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter Statement Example 
+- Bloc [참고자료](https://velog.io/@tygerhwang/Flutter-%EC%98%88%EC%A0%9C%EB%A1%9C-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EB%8A%94-BLoC-Pattern%EC%9D%B4%EB%9E%80#image-change)
